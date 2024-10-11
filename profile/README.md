@@ -2,7 +2,7 @@
 
 This is cloud fuzzing
 
-## Trust By
+## Trusted By
 - Badger
 - Centrifuge
 - Corn
@@ -21,3 +21,20 @@ Our customers have over $1 BLN in TVL
 - Ongoing onchain monitoring, automated invariant tests to prevent real world exploits
 
  
+## Trophies
+
+We ran invariant tests against some of the toughest codebase
+
+- Badger - Crit
+- Centrifuge - Med
+- Tapioca - Highs and Meds
+- Curvance - High
+- Euler - Broken Spec
+
+## Best Practices
+
+We offer multiple starter templates for invariant testing
+
+Feel free to browse around or try our tools at: https://getrecon.xyz/
+
+We can help you build smart contracts, reach out for advisory services
