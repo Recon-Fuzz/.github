@@ -28,7 +28,6 @@ We ran invariant tests against some of the toughest codebase
 - Badger - Crit
 - Centrifuge - Med
 - Tapioca - Highs and Meds
-- Curvance - High
 - Euler - Broken Spec
 
 ## Best Practices
