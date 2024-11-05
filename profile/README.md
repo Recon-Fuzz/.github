@@ -10,6 +10,7 @@ This is cloud fuzzing
 - Liquity
 - Solidity Labs
 - Onchainification
+- Balancer DAO
 
 Our customers have over $1 BLN in TVL
 
