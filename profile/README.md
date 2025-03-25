@@ -1,6 +1,6 @@
 # Recon
 
-Recon is a boutique audit firm, that is making Stateful Fuzzing (Invariant Testing) the new default
+Recon is a boutique audit firm, that is making Invariant Testing the new default
 
 Check our Open Source repositories for:
 - Create Chimera App: The easiest way to start writing and running Invariant Tests, currently on it's 2nd version
