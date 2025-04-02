@@ -26,6 +26,7 @@ Our customers have over $1 BLN in TVL
 
 ## Services
 
+- Audits powered by Invariant Testing
 - Recon Pro: Best in class way to run Echidna, Medusa, Foundry, Halmos and Kontrol in the cloud, with extensive automations, alerts and ongoing fuzzing utilities
 - Invariant Testing Engagements, bootstrap your invariants or maintain them with our extremely experienced engineers
 - Security Audits by Alex The Entreprenerd and other highly qualified, trusted, researchers
