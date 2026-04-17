@@ -1,14 +1,15 @@
 # Recon
 
-Recon is a boutique audit firm, that is making Invariant Testing the new default
+Recon is a boutique audit firm, that is making Invariant Testing the new default.
 
 Check our Open Source repositories for:
-- Create Chimera App: The easiest way to start writing and running Invariant Tests, currently on it's 2nd version
-- Audits: Our public audit Reports, we publish 100% of reports, unless our customers ask us not to
+- Create Chimera App: The easiest way to start writing and running Invariant Tests, currently on it's 2nd version.
+- Recon Fuzzer: An Echidna clone written in Rust, 10 times faster.
+- Recon Magic Framework: An AI orchestration framework with prompts and custom tools to automate invariant testing, 40 times faster than doing it by hand.
+- Recon Extension: The most popular invariant testing tool for Solidity, used by over 1.3k developers.
+- Audits: Our public audit Reports, we publish 100% of reports, unless our customers ask us not to.
 
-Our team has saved Tens of Millions of live, at risk, funds, and has prevented billions in dollars in damages through our audits
-
-
+Our team has saved over 20 Million Dollars of live, at risk, funds, and has prevented billions in dollars in damages through our audits.
 
 ## Trusted By
 - Badger
