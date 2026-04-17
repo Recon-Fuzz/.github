@@ -22,7 +22,7 @@ Our team has saved Tens of Millions of live, at risk, funds, and has prevented b
 - Beraborrow
 - Credit Coop
 
-Our customers have over $1 BLN in TVL
+Our customers have over $30 BLN in total TVL
 
 ## Services
 
